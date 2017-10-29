@@ -2,6 +2,8 @@
 A simple implementation of signal C function.
 
 # Installation
+**IMPORTANT:** Requires Pharo6+
+
 ```Smalltalk
 Metacello new 
   repository: 'github://estebanlm/pharo-posix-signal';
