@@ -6,7 +6,7 @@ A simple implementation of signal C function.
 
 ```Smalltalk
 Metacello new 
-  repository: 'github://estebanlm/pharo-posix-signal';
+  repository: 'github://estebanlm/pharo-posix-signal/src';
   baseline: 'POSIXSignal';
   load.
 ```
